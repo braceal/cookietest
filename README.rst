@@ -22,7 +22,7 @@ cookietest
 
 cookiecutter test for learning
 
-
+* GitHub repo: https://github.com/braceal/cookietest
 * Free software: MIT license
 * Documentation: https://cookietest.readthedocs.io.
 
