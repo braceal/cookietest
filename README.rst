@@ -20,7 +20,7 @@ cookietest
 
 
 
-cookiecutter test for learning
+cookiecutter test for learning and testing CI
 
 * GitHub repo: https://github.com/braceal/cookietest
 * Free software: MIT license
